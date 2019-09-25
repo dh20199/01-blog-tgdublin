@@ -10,6 +10,7 @@ html {
 
 main {
     border: 50rem black;
+    max-width: 50rem;
     border-radius: 10px;
     padding: 10px;                      
 }
