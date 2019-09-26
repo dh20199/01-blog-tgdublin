@@ -3,14 +3,14 @@ html{
 }
 
 article {
-    background:  rgba(50, 38, 179, 0.795);
+    background:  rgba(85, 71, 235, 0.795);
     flex-flow: row;
     max-width: 80rem;
     display: flex;
     border-top-right-radius: 20px;
 }
 header {
-    background: rgb(206, 163, 22);
+    background: rgb(228, 191, 68);
     text-align: center;
     padding: 20px
 }
@@ -23,7 +23,7 @@ section.main {
 section.sources {
     margin-right: 225px;
     padding: 20px ;
-    background: rgb(206, 163, 22) ;
+    background: rgb(228, 191, 68) ;
     text-align: center;
     border-bottom-right-radius: 20px;
 }
