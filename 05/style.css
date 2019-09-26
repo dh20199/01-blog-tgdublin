@@ -1,3 +1,35 @@
+html{
+    font-family: "Courier New", Courier;
+}
+
 article {
-    background:  #0000;;
+    background:  rgba(50, 38, 179, 0);
+    flex-flow: row;
+    max-width: 80rem;
+    display: flex
+}
+header {
+    background: rgba(206, 163, 22, 0);
+    text-align: center;
+    
+}
+section.main { 
+    margin-left: 10px ; 
+    margin-right: 10px ;
+
+}
+
+section.sources {
+    margin-left: 20px ; 
+    margin-right: 20px ;
+    border: 50rem orange;
+    border-radius: 10px;
+    text-align: center
+}
+
+section img {
+    max-width: 30rem;
+    float: left;
+    padding: 10px;
+    border: 10px;
 }
